@@ -1,4 +1,4 @@
-[![MasterHead](https://www.simplilearn.com/ice9/free_resources_article_thumb/is_machine_learning_hard.jpg)]
+![MasterHead](https://miro.medium.com/v2/resize:fit:1400/1*aSC3odScNMyz7Y6MZvqJ1Q.jpeg) 
 <h1 align="center">Hi 👋, I'm Vinaykumar</h1>
 <h3 align="center">"Driving innovation through machine learning"</h3>
 
